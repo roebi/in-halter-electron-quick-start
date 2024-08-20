@@ -15,6 +15,6 @@
   "author": "roebi@halter.in",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^31.3.1"
+    "electron": "^31.4.0"
   }
 }
